@@ -52,13 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+I am geophysicist with 11 years of experience in both oil and gas industry and academia. As a professional exploration geophysicist, I have been working in prospect generation, risk assessment, drilling program, post-drill analysis and plan of development project. My strongest skills include advance seismic interpretation, quantitative analysis and geological modeling. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+As an academia, I have been mostly working in the experimental research investigating rock properties using geomechanics and rock physics approach. My current research include carbon dioxide study on carbonate rocks for enhanced oil recovery and carbon storage. I also working on machine learning application for geoscience. I have two invention disclosures about machine learning applications.
 
 content:
   - title: Projects # Title for the section
