@@ -77,7 +77,7 @@ content:
         quote: >
           <mark>Unconventional reservoir</mark> <mark>shale gas</mark> <mark>quantitative seismic interpretation</mark> <mark>3D seismic</mark> <mark>pore pressure prediction</mark> <mark>total organic carbon</mark> <mark>exploration</mark>
         description: | # this will include new lines to allow paragraphs
-          The thesis investigates and explores a "sweetspot" of shale gas potential in south Sumatra basin Indonesia using an integrated study of simultaneous seismic inversion, pore pressure prediction and total organic carbon prediction.
+          The thesis investigates a "sweetspot" of shale gas potential in south Sumatra basin Indonesia using an integrated study of simultaneous seismic inversion, pore pressure prediction and total organic carbon prediction.
       - layout: left    
         title: Institute of Technology Bandung
         sub_title: Bsc. in Geophysical Engineering
@@ -86,7 +86,7 @@ content:
         quote: >
           <mark>borehole</mark> <mark>time-lapse</mark> <mark>microgravity</mark> <mark>numerical simulation</mark> <mark>matlab</mark> <mark>reservoir monitoring</mark>
         description: | # this will include new lines to allow paragraphs
-          The final project includes the development of Matlab code to perform synthetic modeling of time-lapse borehole microgravity. This numerical model allows prediction of microgravity anomaly along the wellbore during hydrocarbon production and gas injection monitoring.
+          The final project includes the development of Matlab code to perform synthetic modeling of time-lapse borehole microgravity. This numerical model allows prediction and simulation of microgravity anomaly along the wellbore during hydrocarbon production and gas injection monitoring.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
