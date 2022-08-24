@@ -66,9 +66,18 @@ content:
         caption: 2016 - 2022
         link: www.kaust.edu.sa
         quote: >
-          <mark>Experimental geomechanics</mark> <mark>seismic frequencies measurements</mark> <mark>velocity dispersion</mark> <mark>attenuation</mark> <mark>CO2 studies</mark> <mark>triaxial</mark> <mark>resonant column</mark>
+          <mark>experimental geomechanics</mark> <mark>seismic frequencies measurements</mark> <mark>velocity dispersion</mark> <mark>attenuation</mark> <mark>CO2 studies</mark> <mark>triaxial</mark> <mark>resonant column</mark>
         description: | # this will include new lines to allow paragraphs
           Research focused on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluid type (brine and supercritical CO2), and temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame to perform cyclic loading on fluid-saturated rock specimen at seismic-frequency.
+          
+        title: Institute of Technology Bandung
+        sub_title: Msc. in Geophysical Engineering
+        caption: 2009 - 2011
+        link: www.itb.ac.id
+        quote: >
+          <mark>Unconventional reservoir</mark> <mark>shale gas</mark> <mark>quantitative seismic interpretation</mark> <mark>3D seismic</mark> <mark>pore pressure prediction</mark> <mark>total organic carbon</mark> <mark>exploration</mark>
+        description: | # this will include new lines to allow paragraphs
+          The thesis investigates and explores a "sweetspot" of shale gas potential in south Sumatra basin Indonesia using an integrated study of simultaneous seismic inversion, pore pressure prediction and total organic carbon prediction.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
