@@ -87,6 +87,19 @@ content:
           <mark>borehole</mark> <mark>time-lapse</mark> <mark>microgravity</mark> <mark>numerical simulation</mark> <mark>matlab</mark> <mark>reservoir monitoring</mark>
         description: | # this will include new lines to allow paragraphs
           The final project includes the development of Matlab code to perform synthetic modeling of time-lapse borehole microgravity. This numerical model allows prediction and simulation of microgravity anomaly along the wellbore during hydrocarbon production and gas injection monitoring.
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: King Abdullah University of Science and Technology
+        sub_title: Postdoctoral Fellow
+        caption: Feb 2022 - present
+        link: anperc.kaust.edu.sa
+        quote: >
+          <mark>CO2 study</mark> <mark>carbonate rocks</mark> <mark>machine learning</mark> <mark>drone</mark> <mark>triaxial</mark> <mark>rock physics</mark>
+        description: | # this will include new lines to allow paragraphs
+          <mark>Experiment</mark>: Conduct geomechanical and geophysical studies to characterize fluid-saturated carbonate rock (brine, oil and CO2) for Enhanced Oil Recovery and Carbon Capture Utilization and Storage
+          <mark>Numerical</mark>: Utilize machine learning technique using conditional generative adversarial network (CGAN) to generate photorealistic outcrop model from ground penetrating radar and near surface seismic survey
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -107,18 +120,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
