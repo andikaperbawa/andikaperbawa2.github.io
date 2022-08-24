@@ -62,13 +62,12 @@ content:
     content:
       - layout: left
         title: King Abdullah University of Science and Technology
-        sub_title: Philosopher Doctor (PhD)
+        sub_title: Ph.D. in Earth Science and Engineering
         caption: 2016 - 2022
         quote: >
-          Reserach focused on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluids (brine and supercritical CO2), temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame to perform cyclic loading on fluid-saturated rock specimen at seismic-frequency.
           <mark>Experimental geomechanics</mark>, <mark>seismic frequencies measurements</mark>, <mark>velocity dispersion</mark>, <mark>attenuation</mark>, <mark>CO2 studies</mark>, <mark>triaxial</mark>, <mark>resonant column</mark>
         description: | # this will include new lines to allow paragraphs
-          Earth Science and Engineering
+          Research focused on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluid type (brine and supercritical CO2), and temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame to perform cyclic loading on fluid-saturated rock specimen at seismic-frequency.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
