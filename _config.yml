@@ -54,7 +54,7 @@ about_profile_image: images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
   I am geophysicist with 11 years of experience in both oil and gas industry and academia. As a professional exploration geophysicist, I have been working in prospect generation, risk assessment, drilling program, post-drill analysis and plan of development project. My strongest skills include advance seismic interpretation, quantitative analysis and geological modeling. 
 
-  As an academia, I have been mostly working in the experimental research investigating rock properties using geomechanics and rock physics approach. My current research include carbon dioxide study on carbonate rocks for enhanced oil recovery and carbon storage. I also working on machine learning application for geoscience. I have two invention disclosures about machine learning applications.
+  As an academia, I have been working in the experimental research investigating rock properties using geomechanics and rock physics approach. My current research includes carbon dioxide study on carbonate rocks for enhanced oil recovery and carbon storage. I also working on machine learning application for geoscience. I have two invention disclosures about machine learning applications.
 
 content:
   - title: Education
