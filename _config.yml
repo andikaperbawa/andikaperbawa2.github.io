@@ -102,6 +102,25 @@ content:
           <mark>Numerical</mark>: Utilize machine learning technique using conditional generative adversarial network (CGAN) to generate photorealistic outcrop model from ground penetrating radar and near surface seismic survey.
           
           <mark>Patent</mark>: I have 2 submitted patent applications that utilize machine learning technique (GAN) to translate images from seismic acoustic impedance (USSN 63/395,707) and ground penetrating radar (USSN 63/395,708) to digital outcrop model.
+      - layout: left
+        title: King Abdullah University of Science and Technology
+        sub_title: Postgraduate research assistant
+        caption: May 2021 - Jan 2022
+        link: anperc.kaust.edu.sa
+        quote: >
+          <mark>carbonate rock characterization</mark> <mark>laboratory experiment</mark> <mark>porosity</mark> <mark>permeability</mark>
+        description: | # this will include new lines to allow paragraphs
+          Conducted and reported jurassic carbonate rock characterization in the laboratory that include measurement of porosity, permeability, thin section analysis and facies classification. Built and modified machine learning code for geoscience field application.
+      - layout: left
+        title: King Abdullah University of Science and Technology
+        sub_title: Research assistant
+        caption: Aug 2016 - Feb 2021
+        link: anperc.kaust.edu.sa
+        quote: >
+          <mark>Supercritical CO2 injection</mark> <mark>velocity dispersion</mark> <mark>attenuation relaxation</mark> <mark>new device</mark> <mark>quasi-static loading</mark> <mark>cyclic loading</mark> <mark>ultrasonic</mark> <mark>resonant column</mark>
+        description: | # this will include new lines to allow paragraphs
+          Laboratory rock characterization and imaging of Jurassic carbonate. Developed a new low-frequency resonant column device and seismic-frequency cyclic-loading apparatus to investigate frequency-dependent (dispersion) velocity and attenuation behaviour of intact rocks. 
+          The study involves characterization of Jurassic carbonate rock reservoir rock from Saudi Arabia and standard rock specimens (Berea sandstone, Indiana limestone, wisconsin limestone and Eagleford shale.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
