@@ -57,6 +57,18 @@ about_content: | # this will include new lines to allow paragraphs
   As an academia, I have been mostly working in the experimental research investigating rock properties using geomechanics and rock physics approach. My current research include carbon dioxide study on carbonate rocks for enhanced oil recovery and carbon storage. I also working on machine learning application for geoscience. I have two invention disclosures about machine learning applications.
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: King Abdullah University of Science and Technology
+        sub_title: Philosopher Doctor (PhD)
+        caption: 2016 - 2022
+        quote: >
+          Reserach focused on broadband elastic wave propagation in intact rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame that enable seismic-frequency oscillation for velocity dispersion study.
+          Keywords: Experimental geomechanics, seismic frequencies measurements, velocity dispersion, attenuation, new devices development for supercritical CO2 studies, triaxial, resonant column
+        description: | # this will include new lines to allow paragraphs
+          Earth Science and Engineering
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -89,17 +101,6 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
