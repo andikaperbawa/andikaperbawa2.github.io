@@ -99,7 +99,6 @@ content:
           <mark>CO2 study</mark> <mark>carbonate rocks</mark> <mark>machine learning</mark> <mark>drone</mark> <mark>triaxial</mark> <mark>rock physics</mark>
         description: | # this will include new lines to allow paragraphs
           <mark>Experiment</mark>: Conduct geomechanical and geophysical studies to characterize fluid-saturated carbonate rock (brine, oil and CO2) for Enhanced Oil Recovery and Carbon Capture Utilization and Storage.
-          
           <mark>Numerical</mark>: Utilize machine learning technique using conditional generative adversarial network (CGAN) to generate photorealistic outcrop model from ground penetrating radar and near surface seismic survey.
           
           <mark>Patent</mark>: I have 2 submitted patent applications that utilize machine learning technique (GAN) to translate images from ground penetrating radar and seismic acoustic impedance to digital outcrop model. USSN 63/395,707 | KAUST 2022-170-01 | PPB 0338-721 and USSN 63/395,708 | KAUST 2022-171-01 | PPB 0338-722.
