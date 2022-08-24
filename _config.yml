@@ -119,8 +119,8 @@ content:
         quote: >
           <mark>Supercritical CO2 injection</mark> <mark>velocity dispersion</mark> <mark>attenuation relaxation</mark> <mark>new device</mark> <mark>quasi-static loading</mark> <mark>cyclic loading</mark> <mark>ultrasonic</mark> <mark>resonant column</mark>
         description: | # this will include new lines to allow paragraphs
-          Laboratory rock characterization and imaging of Jurassic carbonate. Developed a new low-frequency resonant column device and seismic-frequency cyclic-loading apparatus to investigate frequency-dependent (dispersion) velocity and attenuation behaviour of intact rocks. 
-          The study involves characterization of Jurassic carbonate rock reservoir rock from Saudi Arabia and standard rock specimens (Berea sandstone, Indiana limestone, wisconsin limestone and Eagleford shale.
+          The research focused on laboratory rock characterization and imaging of Jurassic carbonate. Developed a new low-frequency resonant column device and seismic-frequency cyclic-loading apparatus to investigate frequency-dependent (dispersion) velocity and attenuation behaviour of intact rocks. 
+          Integrated study using thin section, CT-scan imaging, surface roughness, X-ray diffraction, physical rock properties measurement and geomechanics triaxial test. The study is also involved characterization of Jurassic carbonate rock reservoir rock from Saudi Arabia and standard rock specimens (Berea sandstone, Indiana limestone, wisconsin limestone and Eagleford shale.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
