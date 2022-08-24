@@ -65,8 +65,8 @@ content:
         sub_title: Philosopher Doctor (PhD)
         caption: 2016 - 2022
         quote: >
-          Reserach focused on broadband elastic wave propagation in intact rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame that enable seismic-frequency oscillation for velocity dispersion study.
-          Keywords: Experimental geomechanics, seismic frequencies measurements, velocity dispersion, attenuation, new devices development for supercritical CO2 studies, triaxial, resonant column
+          Reserach focused on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluids (brine and supercritical CO2), temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame to perform cyclic loading on fluid-saturated rock specimen at seismic-frequency.
+          <mark>Experimental geomechanics</mark>, <mark>seismic frequencies measurements</mark>, <mark>velocity dispersion</mark>, <mark>attenuation</mark>, <mark>CO2 studies</mark>, <mark>triaxial</mark>, <mark>resonant column</mark>
         description: | # this will include new lines to allow paragraphs
           Earth Science and Engineering
   - title: Projects # Title for the section
