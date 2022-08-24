@@ -73,7 +73,7 @@ content:
         title: Institute of Technology Bandung
         sub_title: Msc. in Geophysical Engineering
         caption: 2009 - 2011
-        link: www.itb.ac.id
+        link: www.gf.itb.ac.id
         quote: >
           <mark>Unconventional reservoir</mark> <mark>shale gas</mark> <mark>quantitative seismic interpretation</mark> <mark>3D seismic</mark> <mark>pore pressure prediction</mark> <mark>total organic carbon</mark> <mark>exploration</mark>
         description: | # this will include new lines to allow paragraphs
@@ -82,7 +82,7 @@ content:
         title: Institute of Technology Bandung
         sub_title: Bsc. in Geophysical Engineering
         caption: 2005 - 2009
-        link: www.itb.ac.id
+        link: www.gf.itb.ac.id
         quote: >
           <mark>borehole</mark> <mark>time-lapse</mark> <mark>microgravity</mark> <mark>numerical simulation</mark> <mark>matlab</mark> <mark>reservoir monitoring</mark>
         description: | # this will include new lines to allow paragraphs
