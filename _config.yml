@@ -52,9 +52,10 @@ googlescholar_username: andikaperbawa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
-  I am geophysicist with 11 years of experience in both oil and gas industry and academia. As a professional exploration geophysicist, I have been working in prospect generation, risk assessment, drilling program, post-drill analysis and plan of development project. My strongest skills include advance seismic interpretation, quantitative analysis and geological modeling. 
+  I am a geophysicist with 12+ years of experience in both the oil and gas industry and academia. As a professional exploration geophysicist, I have been working in prospect generation, risk assessment, drilling program, post-drill analysis, and plan of development projects. My strongest skills include advanced seismic interpretation, quantitative analysis, and geological modeling. 
 
-  As an academia, I have been working in the experimental research investigating rock properties using geomechanics and rock physics approach. My current research includes carbon dioxide study on carbonate rocks for enhanced oil recovery and carbon storage. I also working on machine learning application for geoscience. I have two invention disclosures about machine learning applications.
+  As a researcher, I have been working in experimental studies investigating rock properties using geomechanics and rock physics approaches. My current research includes monitoring processes between carbon dioxide and carbonate rocks for enhanced oil recovery and carbon storage. I also working on a machine learning application for geoscience. I have two invention disclosures about machine learning applications.
+
 
 content:
   - title: Education
@@ -68,7 +69,7 @@ content:
         quote: >
           <mark>experimental geomechanics</mark> <mark>seismic frequencies measurements</mark> <mark>velocity dispersion</mark> <mark>attenuation</mark> <mark>CO2 studies</mark> <mark>triaxial</mark> <mark>resonant column</mark>
         description: | # this will include new lines to allow paragraphs
-          The dissertation is focusing on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluid type (brine and supercritical CO2), and temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified standard triaxial frame to perform cyclic loading on fluid-saturated rock specimen at seismic-frequency.
+          The dissertation is focusing on broadband elastic wave propagation in intact rocks. The study investigates the effect of frequency, fluid type (brine and supercritical CO2), and temperature on velocity and attenuation in reservoir rocks. I designed and manufactured a new resonant column device for low-frequency attenuation measurement. I also modified the standard triaxial frame to perform cyclic loading on fluid-saturated rock specimens at seismic-frequency.
       - layout: left    
         title: Institute of Technology Bandung
         sub_title: Msc. in Geophysical Engineering
@@ -77,7 +78,7 @@ content:
         quote: >
           <mark>Unconventional reservoir</mark> <mark>shale gas</mark> <mark>quantitative seismic interpretation</mark> <mark>3D seismic</mark> <mark>pore pressure prediction</mark> <mark>total organic carbon</mark> <mark>exploration</mark>
         description: | # this will include new lines to allow paragraphs
-          The thesis investigates a "sweetspot" of shale gas potential in south Sumatra basin Indonesia using an integrated study of simultaneous seismic inversion, pore pressure prediction and total organic carbon prediction.
+          The thesis investigates a "sweet spot" of shale gas potential in the south Sumatra basin of Indonesia using an integrated study of simultaneous seismic inversion, pore pressure prediction, and total organic carbon prediction.
       - layout: left    
         title: Institute of Technology Bandung
         sub_title: Bsc. in Geophysical Engineering
@@ -86,7 +87,7 @@ content:
         quote: >
           <mark>borehole</mark> <mark>time-lapse</mark> <mark>microgravity</mark> <mark>numerical simulation</mark> <mark>matlab</mark> <mark>reservoir monitoring</mark>
         description: | # this will include new lines to allow paragraphs
-          The final project includes the development of Matlab code to perform synthetic modeling of time-lapse borehole microgravity. This numerical model allows prediction and simulation of microgravity anomaly along the wellbore during hydrocarbon production and gas injection monitoring.
+          The final project includes the development of Matlab code to perform synthetic modeling of time-lapse borehole microgravity. This numerical model allows prediction and simulation of microgravity anomalies along the wellbore during hydrocarbon production and gas injection monitoring.
   - title: Experience
     layout: list
     content:
